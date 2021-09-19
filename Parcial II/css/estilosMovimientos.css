@@ -1,0 +1,75 @@
+marquee
+{
+	background: #00355E;
+	font-size: 45px;
+	padding: 10px;
+	color: white;
+	line-height: 20px;
+	width: 60%
+	max-width:800px;
+	margin: auto;
+}
+
+img
+{
+	border-radius: 50%;
+}
+
+table
+{
+	border: 2px solid black;
+	width: 90%;
+	padding: 10px;
+	max-width: 750px;
+	margin: auto;
+}
+
+table tr
+{
+
+	font-size: 15px;
+	color: black;
+}
+
+table tr:hover
+{
+
+	background: #004E8C;
+	color: white;
+}
+
+table td
+{
+	border: 1px solid white;
+}
+
+table td:hover
+{
+	background: blue;
+}
+
+.no
+{
+	width: 20px;
+}
+
+.cert
+{
+	background: #00355E;
+	padding: 10px;
+	margin-top: 20px;
+	color: white;
+	text-align: center;
+}
+
+h4
+{
+	line-height:0px;
+}
+
+h3
+{
+	width: 50%;
+	margin: auto;
+	text-align: center;
+}
